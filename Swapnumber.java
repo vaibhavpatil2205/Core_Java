@@ -8,7 +8,7 @@ public class Swapnumber {
   System.out.println("Value of x is :" + x);
   System.out.println("Value of y is :" + y);
 
-  //swap the value
+
   swap(x, y);
  }
 
